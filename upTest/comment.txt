@@ -1,0 +1,8 @@
+Version 18.11A.C upgrade
+-------------------------
+* some bug fixes
+* add `xxx` and `yyy` features.
+* something more ...
+
+We recommand you to upgrade to this version ;)
+Thank you!
